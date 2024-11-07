@@ -7,7 +7,9 @@
 * [email](mailto:ilinmikhail680@gmail.com)
 
 ## About
-I'm a self-taught developer who enjoys coding for fun!
+* I'm a self-taught developer who enjoys coding for fun!
+* 28 btw
+* I joined RSSchool on the recommendation of a friend
 
 ## Skills
 * JavaScript (ES6)
@@ -26,8 +28,8 @@ I'm a self-taught developer who enjoys coding for fun!
 
 ## Experience
 I have no experience in IT, just reading docs && doing pet projects since 2023
-[One of my latest Github projects](https://github.com/FirstDayAtWork/Js-Quiz)
-[CodeWars Profile btw](https://www.codewars.com/users/FirstDayAtWork)
+* [One of my latest Github projects](https://github.com/FirstDayAtWork/Js-Quiz)
+* [CodeWars Profile btw](https://www.codewars.com/users/FirstDayAtWork)
 
 ## Education
 Automotive College, "Mechanic" 2011-2014
